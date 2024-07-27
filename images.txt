@@ -1,3 +1,4 @@
+hectorqin/reader
 ydlhero/chatgpt-web-midjourney-proxy
 caddy
 xiaoyaliu/alist
